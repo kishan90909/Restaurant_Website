@@ -1,6 +1,24 @@
 # RDX Fast Food - Professional Business Website
 
-A modern, mobile-friendly website for RDX Fast Food café built with React.js and Tailwind CSS.
+<div align="center">
+  <h3>
+    🚀 Live Demo:
+    <a href="https://rdx-restaurant.netlify.app/" target="_blank">
+      View Portfolio
+    </a>
+  </h3>
+</div>
+
+<div align="center">
+
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Responsive](https://img.shields.io/badge/Design-Responsive-success)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+
+</div>
+
+---
 
 ## Features
 
