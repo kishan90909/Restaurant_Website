@@ -184,7 +184,7 @@ rdx-fast-food/
 
 ## License
 
-© 2024 RDX Fast Food. All rights reserved.
+© 2026 Kishan patel. All rights reserved.
 
 ## Support
 
