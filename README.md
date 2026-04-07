@@ -4,7 +4,7 @@
   <h3>
     🚀 Live Demo:
     <a href="https://rdx-restaurant.netlify.app/" target="_blank">
-      View Portfolio
+      View Application Here
     </a>
   </h3>
 </div>
