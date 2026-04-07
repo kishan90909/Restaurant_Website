@@ -4,7 +4,7 @@
 
 ### ✅ Contact Information Updated
 
-**Phone Number:** 7947132903
+**Phone Number:** 0123456789
 - Updated in Contact.jsx (Call button)
 - Updated in Contact.jsx (WhatsApp button)
 - Updated in WhatsAppButton.jsx (Floating button)
@@ -84,15 +84,15 @@ vercel --prod
 - **Bestsellers:** 13
 - **Chef's Special:** 11
 - **Price Range:** ₹49 - ₹299
-- **Phone:** 7947132903
-- **Location:** Kharar, Punjab
+- **Phone:** 9313440726
+- **Location:** Mehsana, Gujrat 
 
 ---
 
 ## ✨ What's Working
 
 ✅ All 121 menu items with real prices
-✅ Real phone number (7947132903)
+✅ Real phone number (9313440726)
 ✅ Real address (Acme Western Homes, Kharar)
 ✅ Real Google Maps link with directions
 ✅ Real opening hours (1:30 PM - 3:00 AM)
@@ -136,8 +136,8 @@ vercel --prod
 
 ## 📱 Test Checklist
 
-- [ ] Call button opens dialer with 7947132903
-- [ ] WhatsApp opens chat with 7947132903
+- [ ] Call button opens dialer with 9313440726
+- [ ] WhatsApp opens chat with 9313440726
 - [ ] Floating WhatsApp button works
 - [ ] Google Maps shows correct location
 - [ ] "Get Directions" link works
@@ -169,4 +169,4 @@ vercel --prod
 ---
 
 Built with ❤️ for RDX Fast Food
-Kharar, Punjab | 7947132903
+Mehsana, Gujarat | 9313440726
